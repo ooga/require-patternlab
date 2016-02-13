@@ -1,0 +1,37 @@
+{
+  "name": "require-patternlab",
+  "version": "0.0.1",
+  "description": "Browserify plugin to require patternlab templates using pattern naming",
+  "keywords": [
+    "require",
+    "template",
+    "browserify",
+    "browserify-plugin",
+    "plugin",
+    "Pattern Lab",
+    "Atomic Web Design"
+  ],
+  "homepage": "https://github.com/ooga/require-patternlab",
+  "author": {
+    "name": "Johan Rouve",
+    "email": "johan.rouve@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ooga/require-patternlab/issues"
+  },
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ooga/require-patternlab.git"
+  },
+  "dependencies": {
+    "browser-resolve": "^1.7.1",
+    "resolve": "^1.1.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {},
+  "readmeFilename": "README.md"
+}
